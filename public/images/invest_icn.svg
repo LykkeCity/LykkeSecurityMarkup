@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="52px" viewBox="0 0 72 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>invest_icn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="lykke_securities" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01a_lykke_securities_collapse" transform="translate(-764.000000, -2039.000000)">
+            <g id="invest_icn" transform="translate(760.000000, 2025.000000)">
+                <polygon id="Fill-1" fill="#F5F6F7" opacity="0" points="0 80 80 80 80 0 0 0"></polygon>
+                <g id="Group-18" transform="translate(5.000000, 15.000000)">
+                    <path d="M0,44 L0,6 C0,2.687 2.687,0 6,0 L64,0 C67.313,0 70,2.687 70,6 L70,44 C70,47.313 67.313,50 64,50 L6,50 C2.687,50 0,47.313 0,44" id="Fill-2" fill="#FFFFFF"></path>
+                    <path d="M0,44 L0,6 C0,2.687 2.687,0 6,0 L64,0 C67.313,0 70,2.687 70,6 L70,44 C70,47.313 67.313,50 64,50 L6,50 C2.687,50 0,47.313 0,44 Z" id="Stroke-4" stroke="#333333" stroke-width="2"></path>
+                    <path d="M5,42 L5,8 C5,6.343 6.343,5 8,5 L62,5 C63.657,5 65,6.343 65,8 L65,42 C65,43.657 63.657,45 62,45 L8,45 C6.343,45 5,43.657 5,42" id="Fill-6" fill="#0388EF"></path>
+                    <path d="M47,25 C47,31.627 41.627,37 35,37 C28.373,37 23,31.627 23,25 C23,18.373 28.373,13 35,13 C41.627,13 47,18.373 47,25 Z" id="Stroke-8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M16,25 C16,26.104 15.104,27 14,27 C12.896,27 12,26.104 12,25 C12,23.896 12.896,23 14,23 C15.104,23 16,23.896 16,25" id="Fill-10" fill="#FFFFFF"></path>
+                    <path d="M58,25 C58,26.104 57.104,27 56,27 C54.896,27 54,26.104 54,25 C54,23.896 54.896,23 56,23 C57.104,23 58,23.896 58,25" id="Fill-12" fill="#FFFFFF"></path>
+                    <path d="M35,30 L35,21" id="Stroke-14" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="31 24 35 20 39 24"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
