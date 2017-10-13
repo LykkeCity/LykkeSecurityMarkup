@@ -1,3 +1,3 @@
-# Lykke Card
+# Lykke Security
 
-Demo: https://lykkecity.github.io/LykkeCardMarkup/
+Demo: https://lykkecity.github.io/LykkeSecurityMarkup
